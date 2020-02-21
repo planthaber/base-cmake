@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cmake</name>
+  <version>0.0.0</version>
+  <description>cmake macros</description>
+
+  <maintainer email="steffen.planthaber@dfki.de">Steffen Planthaber</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+ <license>LGPL v2 or later</license>
+</package>
